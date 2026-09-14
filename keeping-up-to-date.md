@@ -7,3 +7,5 @@
 | Cyber News | Simply Cyber Daily Breif |
 | Learning network and linux | switchlab. dev |
 | SQL | selectstarsql |
+| cyber security training | try hack me, hack the box, lets defend |
+
