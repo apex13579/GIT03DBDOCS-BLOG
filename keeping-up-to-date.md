@@ -5,3 +5,4 @@
 | History of cyber security | Darknet Diaries |
 | Current issues | Cyber wire daily |
 | Cyber News | Simply Cyber Daily Breif |
+| Learning network and linux | switchlab.dev |
