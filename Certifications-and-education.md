@@ -20,8 +20,8 @@
 
 ## Upcoming Certificates and where I will learn (both paid and free)
 
-* [ ] **[LINUX+](https://www.linkedin.com/learning/comptia-linux-plus-xk0-006-v8-cert-prep/introduction-to-linux-plus-xk0-006-33851061?u=42572828))**
-* [ ] **[CLOUD+](https://www.linkedin.com/learning/comptia-cloud-plus-cv0-004-cert-prep/introduction-to-cloud-plus-cv0-004?u=42572828))**
+* [ ] **[LINUX+](https://www.linkedin.com/learning/comptia-linux-plus-xk0-006-v8-cert-prep/introduction-to-linux-plus-xk0-006-33851061?u=42572828)**
+* [ ] **[CLOUD+](https://www.linkedin.com/learning/comptia-cloud-plus-cv0-004-cert-prep/introduction-to-cloud-plus-cv0-004?u=42572828)**
 * [ ] **[NET+](https://www.linkedin.com/learning/comptia-network-plus-n10-009-cert-prep/tour-of-a-soho-router?u=42572828)**
 * [ ] **[SEC+](https://www.linkedin.com/learning/comptia-security-plus-sy0-701-cert-prep-by-infosec/welcome-video?u=42572828)**
 * [ ] **Full stack developer free code camp**
