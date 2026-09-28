@@ -14,6 +14,7 @@
 * [x] **Google Project Management Professional**
 * [x] **Google Data Analytics Professional**
 * [x] **Google Cybersecurity Professional**
+* [x] **Monday.com Work Management Core**
 
 ---
 
