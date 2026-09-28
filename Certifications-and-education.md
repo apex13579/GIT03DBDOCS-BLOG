@@ -18,8 +18,8 @@
 
 ## Upcoming Certificates and where I will learn (both paid and free)
 
-* [ ] **[Linux Professional Institute Linux Essentials](https://www.diontraining.com/products/lpi-linux-essentials-c-usd)**
-* [ ] **[AZ900](https://www.diontraining.com/products/az-900-microsoft-azure-fundamentals)**
+* [ ] **[Linux+](https://www.diontraining.com/products/lpi-linux-essentials-c-usd)**
+* [ ] **[CLOUD+](https://www.diontraining.com/products/az-900-microsoft-azure-fundamentals)**
 * [ ] **[NET+](https://www.diontraining.com/products/comptia-network-n10-009-full-course?_pos=1&_fid=61481ca7c&_ss=c)**
 * [ ] **[SEC+](https://www.diontraining.com/products/comptia-security-sy0-701?_pos=1&_fid=83cb566b0&_ss=c)**
 * [ ] **Full stack developer free code camp**
