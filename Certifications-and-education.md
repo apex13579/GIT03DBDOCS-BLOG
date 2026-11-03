@@ -22,8 +22,11 @@
 
 * [ ] [A+]
 * [ ] [NET+]
+* [ ] [LINUX+]
 * [ ] [SEC+]
-* [ ] [CISSP]
+* [ ] [CYSA+]
+* [ ] [PENTEST+]
+* [ ] [SEC-X]
  
 
        
